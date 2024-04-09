@@ -27,8 +27,8 @@ This project enables interactive manipulation of a rectangle's dimensions using 
   - **Body**:
     ```json
     {
-      "width": "int",
-      "height": "int"
+      "width": "number",
+      "height": "number"
     }
     ```
   - **Description**: Updates the rectangle's dimensions to the specified width and height.
